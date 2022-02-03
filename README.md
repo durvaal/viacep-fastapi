@@ -1,4 +1,4 @@
-## Backend CRUD API wiht FastAPI and MongoDB
+## CRUD API with FastAPI and MongoDB
 
 Backend in Python that uses the API [ViaCEP](http://viacep.com.br) to create a simple CRUD with MongoDB integration.
 
